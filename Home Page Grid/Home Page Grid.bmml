@@ -17,6 +17,8 @@
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::LinkBar" x="53" y="247" w="-1" h="-1" measuredW="680" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>%2CHome%20Page%20Grid_ResponsiveDesign_Content%26bm%3BHome%20Page%20Grid_ResponsiveDesign_Content.bmml%26bm%3BHome%20Page%20Grid_ResponsiveDesign_Content.bmml%26bm%3BHome%20Page%20Grid_ResponsiveDesign_Content.bmml%2CHome%20Page%20Grid_AccessForAll_Content%26bm%3BHome%20Page%20Grid_AccessForAll_Content.bmml%26bm%3BHome%20Page%20Grid_AccessForAll_Content.bmml%26bm%3BHome%20Page%20Grid_AccessForAll_Content.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2280%2C207%2C238%2C225%22%20href%3D%22Home%2520Page%2520Grid_ResponsiveDesign_Content.bmml%22%20alt%3D%22Home%20Page%20Grid_ResponsiveDesign_Content%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22256%2C207%2C374%2C225%22%20href%3D%22Home%2520Page%2520Grid_AccessForAll_Content.bmml%22%20alt%3D%22Home%20Page%20Grid_AccessForAll_Content%22%20id%3D%2210%22/%3E</map>
         <selectedIndex>0</selectedIndex>
         <size>18</size>
         <text>Home%2C%20Responsive%20Design%2C%20Access%20For%20All%2C%20Mobile%20Apps%2C%20Contact%20Us%2C%20Site%20Map</text>
