@@ -1,0 +1,72 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1062" measuredH="1068" mockupW="1024" mockupH="1026">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="38" y="42" w="1024" h="1026" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%20Page%0Ahttp%3A//www.irisdesignsolutions.co.uk/ResponsiveDesign.html</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="827" y="134" w="207" h="152" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="44" y="123" w="1008" h="174" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Banner%20Image</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::LinkBar" x="53" y="247" w="-1" h="-1" measuredW="680" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Home%20Page%20Grid%26bm%3BHome%20Page%20Grid.bmml%26bm%3BHome%20Page%20Grid.bmml%26bm%3BHome%20Page%20Grid.bmml%2CResponsiveDesign_Content%26bm%3BResponsiveDesign_Content.bmml%26bm%3BResponsiveDesign_Content.bmml%26bm%3BResponsiveDesign_Content.bmml%2CAccessForAll_Content%26bm%3BAccessForAll_Content.bmml%26bm%3BAccessForAll_Content.bmml%26bm%3BAccessForAll_Content.bmml%2CMobile_Category%26bm%3BMobile_Category.bmml%26bm%3BMobile_Category.bmml%26bm%3BMobile_Category.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C207%2C62%2C225%22%20href%3D%22Home%2520Page%2520Grid.bmml%22%20alt%3D%22Home%20Page%20Grid%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2280%2C207%2C238%2C225%22%20href%3D%22ResponsiveDesign_Content.bmml%22%20alt%3D%22ResponsiveDesign_Content%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22256%2C207%2C374%2C225%22%20href%3D%22AccessForAll_Content.bmml%22%20alt%3D%22AccessForAll_Content%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22392%2C207%2C492%2C225%22%20href%3D%22Mobile_Category.bmml%22%20alt%3D%22Mobile_Category%22%20id%3D%2210%22/%3E</map>
+        <selectedIndex>-1</selectedIndex>
+        <size>18</size>
+        <text>Home%2C%20Responsive%20Design%2C%20Access%20For%20All%2C%20Mobile%20Apps%2C%20Contact%20Us%2C%20Site%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::FieldSet" x="39" y="924" w="1013" h="110" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="597" y="335" w="375" h="260" measuredW="375" measuredH="260" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="375" h="260" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="31"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="107" y="121" w="162" h="-1" measuredW="118" measuredH="21" zOrder="1" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>_Image_%20Example%20app</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextArea" x="113" y="335" w="443" h="260" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22227.8798828125%2C477.00019531249995%2C303.767578125%2C493.00019531249995%22%20href%3D%22http%3A//www.itunes.com%22%20alt%3D%22itunes%20site%22%20id%3D%2232%22%20target%3D%22_blank%22/%3E</map>
+        <size>16</size>
+        <text>*%7Bsize%3A%2020%7DMy%20Diary%7Bsize%7D*%0A%20%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%0A%20%0Anisi%20ut%20aliquip%20ex%20ea%20%5Bitunes%20site%5D%28www.itunes.com%29%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="629" y="644" w="375" h="260" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22743.8798828125%2C805.2001953125%2C819.767578125%2C821.2001953125%22%20href%3D%22http%3A//www.itunes.com%22%20alt%3D%22itunes%20site%22%20id%3D%2233%22%20target%3D%22_blank%22/%3E</map>
+        <size>16</size>
+        <text>*%7Bsize%3A%2020%7DiKits%20Web%20App%7Bsize%7D*%0A%20%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum.%0A%20%0Anisi%20ut%20aliquip%20ex%20ea%20%5Bitunes%20site%5D%28www.itunes.com%29%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="__group__" x="206" y="644" w="375" h="260" measuredW="375" measuredH="260" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="375" h="260" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="35"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="107" y="121" w="162" h="-1" measuredW="118" measuredH="21" zOrder="1" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>_Image_%20Example%20app</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

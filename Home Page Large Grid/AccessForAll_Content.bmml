@@ -1,0 +1,70 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1226" measuredH="833" mockupW="1188" mockupH="820">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="38" y="42" w="1024" h="791" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%20Page%0Ahttp%3A//www.irisdesignsolutions.co.uk/AccessForAll.html</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="597" y="243" w="375" h="260" measuredW="375" measuredH="260" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="375" h="260" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="31"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="107" y="121" w="162" h="-1" measuredW="119" measuredH="21" zOrder="1" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>_Image_%20AccessForAll</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextArea" x="113" y="243" w="443" h="260" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C279.6001953125%2C128.39208984375%2C295.6001953125%22%20href%3D%22http%3A//www.evertonfc.com%22%20alt%3D%22Lorem%22%20id%3D%2232%22%20target%3D%22_blank%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22227.8798828125%2C375.6001953125%2C297.17626953125%2C391.6001953125%22%20href%3D%22http%3A//www.bbc.co.uk%22%20alt%3D%22commodo%22%20id%3D%2232%22%20target%3D%22_blank%22/%3E</map>
+        <size>16</size>
+        <text>*%7Bsize%3A%2020%7DAccess%20For%20All%7Bsize%7D*%0A%20%0A%5BLorem%5D%28http%3A//www.evertonfc.com%29%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20%0A%20%0Anisi%20ut%20aliquip%20ex%20ea%20%5Bcommodo%5D%28www.bbc.co.uk%29%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="113" y="531" w="859" h="260" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22227.8798828125%2C660.4%2C322.02392578125%2C676.4%22%20href%3D%22http%3A//www.bbc.co.uk%22%20alt%3D%22Example%20site%22%20id%3D%2233%22%20target%3D%22_blank%22/%3E</map>
+        <size>16</size>
+        <text>%20Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20%0A%20%0Anisi%20ut%20aliquip%20ex%20ea%20%5BExample%20site%5D%28www.bbc.co.uk%29%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Component" x="49" y="130" w="939" h="39" measuredW="939" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22306%2C134%2C353%2C152%22%20href%3D%22Home%2520Page%2520Large%2520Grid.bmml%22%20alt%3D%22Home%20Page%20Large%20Grid%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22371%2C134%2C408%2C152%22%20href%3D%22web.bmml%22%20alt%3D%22web%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22426%2C134%2C526%2C152%22%20href%3D%22mobile.bmml%22%20alt%3D%22mobile%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22544%2C134%2C702%2C152%22%20href%3D%22Web_Category.bmml%22%20alt%3D%22Web_Category%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22856%2C134%2C950%2C152%22%20href%3D%22contact.bmml%22%20alt%3D%22contact%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22371%2C134%2C471%2C152%22%20href%3D%22web.bmml%22%20alt%3D%22web%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22489%2C134%2C589%2C152%22%20href%3D%22mobile.bmml%22%20alt%3D%22mobile%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22607%2C134%2C765%2C152%22%20href%3D%22Web_Category.bmml%22%20alt%3D%22Web_Category%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22919%2C134%2C1013%2C152%22%20href%3D%22contact.bmml%22%20alt%3D%22contact%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22306%2C147%2C353%2C165%22%20href%3D%22Home%2520Page%2520Large%2520Grid.bmml%22%20alt%3D%22Home%20Page%20Large%20Grid%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22371%2C147%2C471%2C165%22%20href%3D%22web.bmml%22%20alt%3D%22web%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22489%2C147%2C589%2C165%22%20href%3D%22mobile.bmml%22%20alt%3D%22mobile%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22607%2C147%2C765%2C165%22%20href%3D%22Web_Category.bmml%22%20alt%3D%22Web_Category%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22919%2C147%2C1013%2C165%22%20href%3D%22contact.bmml%22%20alt%3D%22contact%22%20id%3D%220%22/%3E</map>
+        <override controlID="0">
+          <hrefs>Home%20Page%20Large%20Grid%26bm%3BHome%20Page%20Large%20Grid.bmml%26bm%3BHome%20Page%20Large%20Grid.bmml%26bm%3BHome%20Page%20Large%20Grid.bmml%2Cweb%26bm%3Bweb.bmml%26bm%3Bweb.bmml%26bm%3Bweb.bmml%2Cmobile%26bm%3Bmobile.bmml%26bm%3Bmobile.bmml%26bm%3Bmobile.bmml%2CWeb_Category%26bm%3BWeb_Category.bmml%26bm%3BWeb_Category.bmml%26bm%3BWeb_Category.bmml%2C%2Ccontact%26bm%3Bcontact.bmml%26bm%3Bcontact.bmml%26bm%3Bcontact.bmml</hrefs>
+          <selectedIndex>4</selectedIndex>
+          <text>Home%2C%20Web%2C%20Mobile%20Apps%2C%20Responsive%20Design%2C%20Access%20For%20All%2C%20Contact%20Us</text>
+        </override>
+        <src>./assets/symbols.bmml#Main%20Navigation%20Bar</src>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::HRule" x="49" y="199" w="1002" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="__group__" x="715" y="13" w="511" h="131" measuredW="511" measuredH="131" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>bookmark%20link%20note</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::StickyNote" x="384" y="0" w="127" h="131" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <text>Link%20to%20bookmarks%20on%20the%20Web%20category%20page</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="0" y="42" w="384" h="89" measuredW="150" measuredH="100" zOrder="1" locked="false" isInGroup="36">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <curvature>0</curvature>
+            <direction>bottom</direction>
+            <leftArrow>false</leftArrow>
+            <stroke>dotted</stroke>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
